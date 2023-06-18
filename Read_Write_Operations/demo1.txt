@@ -1,0 +1,5 @@
+C is a Structured Programming Language
+Java is a Object-Oriented Programming Language
+
+Python Stands in 1st poistion in TIOBE index
+
